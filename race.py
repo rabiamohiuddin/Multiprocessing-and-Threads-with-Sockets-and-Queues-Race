@@ -1,6 +1,5 @@
-# Lab 7: Networking
+# Networking
 # Rabia Mohiuddin
-# CIS 41B
 # Winter 2018
 
 import threading
